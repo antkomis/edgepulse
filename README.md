@@ -12,7 +12,11 @@ Unlike basic IoT scripts that drop data during connectivity blackouts, EdgePulse
 ---
 ## 🎥 Live Demo (Offline Ring-Buffer Sync & Thermal Spike Alert)
 
-![EdgePulse Live Terminal Demo](assets/demo.gif)
+
+
+https://github.com/user-attachments/assets/5d326dbc-7a8c-4ce5-9dec-9c26a355027c
+
+
 
 ---
 ## 🏗️ System Architecture
